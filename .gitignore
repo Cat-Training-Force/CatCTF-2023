@@ -1,0 +1,15 @@
+# macOS General
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+# IDA General
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.idb
+*.i64
