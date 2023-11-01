@@ -1,0 +1,1 @@
+flag = b"catctf{c1aa4128-87a8-bf31-85f6-ee36000e4057}"

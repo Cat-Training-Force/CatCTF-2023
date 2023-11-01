@@ -1,0 +1,1 @@
+flag = "catctf{Tot4l1y_A_Cryp70_m45t3r!}"
