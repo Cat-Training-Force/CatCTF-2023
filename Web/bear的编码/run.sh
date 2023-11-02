@@ -1,0 +1,1 @@
+docker run -d -p 8102:80 --name ez_code catctf:ez_code

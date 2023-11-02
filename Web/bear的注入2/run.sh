@@ -1,0 +1,1 @@
+docker run -d -p 8858:80 --name ez_sql -e GZCTF_FLAG=catctf{test_flag} catctf:ez_sql
