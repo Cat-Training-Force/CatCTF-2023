@@ -22,7 +22,8 @@ Moss：新的紧急号码好像有点长？
 
 ## 啥？你问源码？
 
-```ffmpeg.exe \
+```
+ffmpeg.exe \
     -i video.mp4 \
     -i merged.wav \
     -c:v copy \
