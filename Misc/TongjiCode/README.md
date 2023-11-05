@@ -29,6 +29,8 @@
 3. `GIT_SSH_COMMAND='ssh -i <这里填密钥所在位置，记得确定好权限>' git clone git@github.com:Cat-Training-Force/tongji-code.git`
 4. flag 就在 `README.md` 里。
 
+注：GitHub 自动 unverify 了那个私钥，想尝试复现的可以自己给自己的一个 Private Repo 加 SSH Deploy Key 之后进行对应操作。
+
 ## 啥？你问源码？
 
 GitHub 上自己找咯。
